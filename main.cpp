@@ -23,7 +23,7 @@ int main() {
             continue;
         }
 
-        tries += 1; // Increment tries only when input is valid
+        tries += 1;
 
         if (ans == number) {
             cout << "Correct!" << endl;
