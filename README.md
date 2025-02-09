@@ -1,5 +1,5 @@
 # Number-Guessing-game-Optimized
-This is like my previous small project for beginners, written in C++ for optimization
+This is like my previous small project, written in C++ for optimization
 
 
 # CREDITS #
